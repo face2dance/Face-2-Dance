@@ -1,0 +1,55 @@
+Face 2 Dance: Plan de Trabajo Completo
+
+PLAN GENERAL: Crear un sitio web cuyo tema central es la danza.  La idea es convertirlo en una base de datos de academias,
+tipos de danzas y docentes en todo el mundo.
+
+OBJETIVOS
+*La idea es crear planes de susccripciones menuales para academias, docentes y alumnos.  Cada usuario pagará un valor,
+dependiendo de su estatus.
+*Cada usuario que esté pagando su suscripción, estará en la capacidad de iniciar sesión en la plataforma y encontrará un
+"dashboard" según su estatus de usuario.
+
+TIPOS DE SUSCRIPCIONES
+
+*ACADEMIAS: Las academias pagarán un valor mensual y a cambio recibirán en sus respectivos perfiles clientes interesados
+en visitar dicha academia. También tendrán un "mini-sitio" donde podrán colgar contenidos multimedia (Videos-Fotos),
+vincular sus redes sociales e interactuar con los demás afiliados mediante las redes sociales, todo dentro del sitio.
+También estará habilitada una sección de calificaciones con comentarios, donde el cliente final podrá dar su opinión se la
+academia elegida. Esto permitirá crear reconocimiento a la academia, sistema de valoraciones y demás, lo cual la academia
+podrá utilizar para generarse publicidad.
+
+*DOCENTES: El docente inscrito recibirá clientes interesados en clases particulares (generación de "leads"). El dashboard
+del docente tendrá un "mini-sitio" donde podrá subir contenidos multimedia (fotos, videos), sección de comentarios de los
+afiliados y puntaje mediante estrellas (el cliente final podrá calificar al docente con estrellas y comentarios, así el
+docente podrá tener reconocimiento de sus clientes.
+
+*APRENDIZ (Cliente final): El aprendiz tendrá un perfil de usuario básico el cual le permitirá iniciar sesión e sitio y
+contactar con las academias/docentes. También será la forma en que podrá calificar docentes/academias y contratar sus
+servicios. Hay que definir si se va a cobrar dinero al cliente final o su suscripción será gratuita. Esto pensando en que
+necesitamos captar sus datos para poder venderlos a las academias/docentes.
+
+DEFINIR ESTRATEGIAS
+
+BLOG FACE 2 DANCE
+Crear sitio web (Sólo Blog). Inicialmente debe lanzarse el sitio sólo como blog y crear artículos en éste.  Esto es con la
+idea de generar tráfico web.  El sitio web debe generar contenidos interesantes al público general, ya que habrá una
+suscripción a boletines (pueden ser semanales o quincenales). Este sistema de Blog (articulos, boletines, etc) permitirá
+captar los primeros clientes.  IMPORTANTE: Cada semana DEBE HACER MÍNIMO 3 ARTÍCULOS NUEVOS.
+
+CANAL YOUTUBE FACE 2 DANCE
+Al mismo tiempo del Blog, face2dance debe generar contenido multimedia, el cual será subido a Youtube
+(y posiblemente Dailymotion y Vimeo). Este canal será monetizado pero no al comienzo (después de subir al menos 10 vídeos).
+Los vídeos deben ser editados para mejorar su calidad (intros, musica de fondo, etc). 
+
+CAMPAÑA DE REDES SOCIALES
+Todo contenido nuevo (artículos, fotos, videos, música, etc) debe compartirse en redes sociales. Los artículos nuevos serán
+compartidos en Facebook, Twitter y Google+, una vez sean publicados en face2dance.com.
+El contenido que sea de imagen (Fotos) será compartido en Instagram y Pinterest. Los videos serán compartidos en Youtube,
+Snapchat, Vine y Periscope (si aplica). NOTA: Podemos usar aplicaciones que automatizan estos procesos.
+
+AFILIACION ACADEMIAS
+Generando tráfico web, Face2Dance estará en capacidad de vender su tráfico web. La idea es vener a las academias
+posicionamiento en nuestro sitio web (TAREA DE SONEY: Visitar academias y vender suscripciones). Es necesario definir cuál
+va a ser el valor de la suscripción. Para ello, debemos calcular nuestros costos de operación (Hosting, dominio, personal,
+re-inversion). La idea es que, después de pagar costos, el dinero recaudado debería reinvertirse en publicidad
+(Google adwords - Facebook ads - Instagram).
