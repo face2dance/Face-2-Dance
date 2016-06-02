@@ -1,0 +1,9 @@
+<***NOTA: Este archivo contiene todos los cambios y actualizaciones realizadas en la plantilla del sitio web de Wordpress.***>
+
+TEMA WORDPRESS INSTALADO: Engage
+
+MODIFICACIONES
+Integración con Pinterest. Se ha agregado la sguiente meta etiqueta en el archivo <header.php>, para comprobación de propiedad con sitio web Pinterest:
+<meta name="p:domain_verify" content="1a50e452be8ac13252e79ccbb99b5ebd"/>
+
+
