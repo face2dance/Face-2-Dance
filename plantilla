@@ -6,4 +6,14 @@ MODIFICACIONES
 Integración con Pinterest. Se ha agregado la sguiente meta etiqueta en el archivo <header.php>, para comprobación de propiedad con sitio web Pinterest:
 <meta name="p:domain_verify" content="1a50e452be8ac13252e79ccbb99b5ebd"/>
 
+PLUGINS INSTALADOS - REQUERIDOS POR EL TEMA
 
+*Contact Form 7 Versión 4.4.2
+
+*Engage Portfolio | adding portfolio. Versión 1.0
+
+*Importador de WordPress Versión 0.6.1
+
+*Slider Revolution Versión 5.2.3.5
+
+*WPBakery Visual Composer Versión 4.11.1
